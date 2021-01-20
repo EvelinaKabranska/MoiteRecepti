@@ -1,0 +1,9 @@
+E:\Curses\C#\MoiteRecepti\MoiteRecepti.Common\bin\Debug\netstandard2.1\MoiteRecepti.Common.deps.json
+E:\Curses\C#\MoiteRecepti\MoiteRecepti.Common\bin\Debug\netstandard2.1\MoiteRecepti.Common.dll
+E:\Curses\C#\MoiteRecepti\MoiteRecepti.Common\bin\Debug\netstandard2.1\MoiteRecepti.Common.pdb
+E:\Curses\C#\MoiteRecepti\MoiteRecepti.Common\obj\Debug\netstandard2.1\MoiteRecepti.Common.csprojAssemblyReference.cache
+E:\Curses\C#\MoiteRecepti\MoiteRecepti.Common\obj\Debug\netstandard2.1\MoiteRecepti.Common.AssemblyInfoInputs.cache
+E:\Curses\C#\MoiteRecepti\MoiteRecepti.Common\obj\Debug\netstandard2.1\MoiteRecepti.Common.AssemblyInfo.cs
+E:\Curses\C#\MoiteRecepti\MoiteRecepti.Common\obj\Debug\netstandard2.1\MoiteRecepti.Common.csproj.CoreCompileInputs.cache
+E:\Curses\C#\MoiteRecepti\MoiteRecepti.Common\obj\Debug\netstandard2.1\MoiteRecepti.Common.dll
+E:\Curses\C#\MoiteRecepti\MoiteRecepti.Common\obj\Debug\netstandard2.1\MoiteRecepti.Common.pdb

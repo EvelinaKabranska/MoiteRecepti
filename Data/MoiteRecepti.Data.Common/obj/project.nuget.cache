@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SvPij7vSv73Rq5avBS3Y6s87p/mmX51Xxt3ncGcZ27nr/96GFLpMO77TsyonZgbaZQt/z/vtBKf16Ou23gnOxw==",
+  "success": true,
+  "projectFilePath": "E:\\Curses\\C#\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\R\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\R\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\R\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

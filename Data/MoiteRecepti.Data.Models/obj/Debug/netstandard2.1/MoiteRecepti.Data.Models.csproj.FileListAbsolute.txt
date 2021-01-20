@@ -1,0 +1,12 @@
+E:\Curses\C#\MoiteRecepti\Data\MoiteRecepti.Data.Models\bin\Debug\netstandard2.1\MoiteRecepti.Data.Models.deps.json
+E:\Curses\C#\MoiteRecepti\Data\MoiteRecepti.Data.Models\bin\Debug\netstandard2.1\MoiteRecepti.Data.Models.dll
+E:\Curses\C#\MoiteRecepti\Data\MoiteRecepti.Data.Models\bin\Debug\netstandard2.1\MoiteRecepti.Data.Models.pdb
+E:\Curses\C#\MoiteRecepti\Data\MoiteRecepti.Data.Models\bin\Debug\netstandard2.1\MoiteRecepti.Data.Common.dll
+E:\Curses\C#\MoiteRecepti\Data\MoiteRecepti.Data.Models\bin\Debug\netstandard2.1\MoiteRecepti.Data.Common.pdb
+E:\Curses\C#\MoiteRecepti\Data\MoiteRecepti.Data.Models\obj\Debug\netstandard2.1\MoiteRecepti.Data.Models.csprojAssemblyReference.cache
+E:\Curses\C#\MoiteRecepti\Data\MoiteRecepti.Data.Models\obj\Debug\netstandard2.1\MoiteRecepti.Data.Models.AssemblyInfoInputs.cache
+E:\Curses\C#\MoiteRecepti\Data\MoiteRecepti.Data.Models\obj\Debug\netstandard2.1\MoiteRecepti.Data.Models.AssemblyInfo.cs
+E:\Curses\C#\MoiteRecepti\Data\MoiteRecepti.Data.Models\obj\Debug\netstandard2.1\MoiteRecepti.Data.Models.csproj.CoreCompileInputs.cache
+E:\Curses\C#\MoiteRecepti\Data\MoiteRecepti.Data.Models\obj\Debug\netstandard2.1\MoiteRecepti.Data.Models.csproj.CopyComplete
+E:\Curses\C#\MoiteRecepti\Data\MoiteRecepti.Data.Models\obj\Debug\netstandard2.1\MoiteRecepti.Data.Models.dll
+E:\Curses\C#\MoiteRecepti\Data\MoiteRecepti.Data.Models\obj\Debug\netstandard2.1\MoiteRecepti.Data.Models.pdb

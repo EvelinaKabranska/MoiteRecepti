@@ -1,0 +1,8 @@
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.deps.json
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.dll
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.pdb
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.AssemblyInfoInputs.cache
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.AssemblyInfo.cs
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.dll
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.pdb

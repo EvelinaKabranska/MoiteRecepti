@@ -1,0 +1,16 @@
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.deps.json
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.dll
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.pdb
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Data.Common.dll
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Data.Models.dll
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.dll
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Data.Models.pdb
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.pdb
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Data.Common.pdb
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.csprojAssemblyReference.cache
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.AssemblyInfoInputs.cache
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.AssemblyInfo.cs
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.csproj.CoreCompileInputs.cache
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.csproj.CopyComplete
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.dll
+E:\Curses\C#\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.pdb
