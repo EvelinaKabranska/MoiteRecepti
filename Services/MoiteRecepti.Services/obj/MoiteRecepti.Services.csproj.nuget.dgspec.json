@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj": {}
+    "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj": {}
   },
   "projects": {
-    "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj": {
+    "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj",
+        "projectUniqueName": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj",
         "projectName": "MoiteRecepti.Services",
-        "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj",
+        "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj",
         "packagesPath": "C:\\Users\\R\\.nuget\\packages\\",
-        "outputPath": "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services\\obj\\",
+        "outputPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\R\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

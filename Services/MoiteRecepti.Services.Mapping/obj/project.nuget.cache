@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DkIpfuzmvw1O0gr6gFARdYvU5NADz3i0Vn4jgDfqWpeK0I2ZZQCwE+XFcXyVRRwUBxIPvBxf6MI+kXC7eXAcfA==",
+  "dgSpecHash": "Lijy/NgL5QgcJ9P6YxYRdRAASAC7iCKmxwJUpaBLYtgh9JwVtdVrJCcJjEpHp3+zau+8RTutdUhUtpgEyZpcjw==",
   "success": true,
-  "projectFilePath": "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj",
+  "projectFilePath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\R\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

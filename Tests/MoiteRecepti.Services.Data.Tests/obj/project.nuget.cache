@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Biu5tzkclzID6x/Zpsbd5F4hryGGyepa5vXL7T8aqKEUzkqEplS7XkYzKPJChNpfyYey0maBDDpmM63rdBnKOw==",
+  "dgSpecHash": "2IEz1XnwGJdy34i3OUMwiewzvLmeDCQU9Kdy6KUjhyVNzwaODJgixMzU3A+tKkpcC/z3eXSu36eWVSttHV9jeA==",
   "success": true,
-  "projectFilePath": "E:\\Curses\\C#\\MoiteRecepti\\Tests\\MoiteRecepti.Services.Data.Tests\\MoiteRecepti.Services.Data.Tests.csproj",
+  "projectFilePath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Tests\\MoiteRecepti.Services.Data.Tests\\MoiteRecepti.Services.Data.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\R\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",

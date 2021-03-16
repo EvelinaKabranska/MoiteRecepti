@@ -11370,11 +11370,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Curses\\C#\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj",
+      "projectUniqueName": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj",
       "projectName": "MoiteRecepti.Web.Tests",
-      "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj",
+      "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj",
       "packagesPath": "C:\\Users\\R\\.nuget\\packages\\",
-      "outputPath": "E:\\Curses\\C#\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\obj\\",
+      "outputPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\R\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11391,8 +11391,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Curses\\C#\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj": {
-              "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj"
+            "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj": {
+              "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj"
             }
           }
         }
@@ -11458,7 +11458,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   },

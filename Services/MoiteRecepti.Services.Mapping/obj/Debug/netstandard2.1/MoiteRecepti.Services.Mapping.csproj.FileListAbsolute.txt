@@ -7,3 +7,12 @@ E:\Curses\C#\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netst
 E:\Curses\C#\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.csproj.CoreCompileInputs.cache
 E:\Curses\C#\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.dll
 E:\Curses\C#\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.pdb
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\bin\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.deps.json
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\bin\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.dll
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\bin\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.pdb
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.csprojAssemblyReference.cache
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.AssemblyInfoInputs.cache
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.AssemblyInfo.cs
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.csproj.CoreCompileInputs.cache
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.dll
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.pdb

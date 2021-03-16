@@ -8392,11 +8392,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Curses\\C#\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
+      "projectUniqueName": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
       "projectName": "MoiteRecepti.Web",
-      "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
+      "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
       "packagesPath": "C:\\Users\\R\\.nuget\\packages\\",
-      "outputPath": "E:\\Curses\\C#\\MoiteRecepti\\Web\\MoiteRecepti.Web\\obj\\",
+      "outputPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Web\\MoiteRecepti.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\R\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8413,32 +8413,32 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Curses\\C#\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
-              "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj"
+            "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
+              "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj"
             },
-            "E:\\Curses\\C#\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj": {
-              "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj"
+            "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj": {
+              "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj"
             },
-            "E:\\Curses\\C#\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj": {
-              "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj"
+            "E:\\Curses\\C#\\Projects\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj": {
+              "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj"
             },
-            "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj": {
-              "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj"
+            "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj": {
+              "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj"
             },
-            "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
-              "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj"
+            "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
+              "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj"
             },
-            "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj": {
-              "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj"
+            "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj": {
+              "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj"
             },
-            "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj": {
-              "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj"
+            "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj": {
+              "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj"
             },
-            "E:\\Curses\\C#\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj": {
-              "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj"
+            "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj": {
+              "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj"
             },
-            "E:\\Curses\\C#\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj": {
-              "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj"
+            "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj": {
+              "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj"
             }
           }
         }
@@ -8508,7 +8508,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   },

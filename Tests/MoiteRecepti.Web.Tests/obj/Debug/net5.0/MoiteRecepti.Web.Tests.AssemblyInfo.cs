@@ -12,8 +12,8 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecepti.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "E:\\Curses\\C#\\MoiteRecepti\\Data\\MoiteRecepti.Data", "MoiteRecepti.Data.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecepti.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "E:\\Curses\\C#\\MoiteRecepti\\Web\\MoiteRecepti.Web", "MoiteRecepti.Web.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecepti.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Data\\MoiteRecepti.Data", "MoiteRecepti.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecepti.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Web\\MoiteRecepti.Web", "MoiteRecepti.Web.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoiteRecepti.Web.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

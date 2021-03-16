@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MnVtbP9DVCl40ogHtRPSdBrL39ycH6KSKJSu2syIGCpXc4oVJauXQYy6/DGfUZm+NMw56WXt4FoXhHv/qELcAA==",
+  "dgSpecHash": "0J3UWFR9L6gPaBapbfg/s1bYWjXn30Kw/Fl3jS3Ycm8rmS9+0H2tdbpqscSSepsh3GekLmhgG5ymAA2tCVO1EQ==",
   "success": true,
-  "projectFilePath": "E:\\Curses\\C#\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj",
+  "projectFilePath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
     "C:\\Users\\R\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"

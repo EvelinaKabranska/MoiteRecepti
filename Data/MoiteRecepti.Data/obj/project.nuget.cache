@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n23IqxlHRTZ0OIi02bHSJhrww5/qcdbmIm40uei/KY1T2haMFcx4GVnpFPkASypaRNQa2h+jf763Eh7oMCJRDw==",
+  "dgSpecHash": "ZTXZKyR6Ogt02zXWcs8XKzBfMV06IeaG2u2GDQ46X2kddaaUV2CrrJHEmqjnZCs1NeEMymuq2KG5NTkYSko5Lg==",
   "success": true,
-  "projectFilePath": "E:\\Curses\\C#\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj",
+  "projectFilePath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\R\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.1\\microsoft.aspnetcore.cryptography.internal.5.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bdlBg/8pDiQ43DUGEKkWV4hB998mnCiBnmdPGPmFRKV5XBwDTBP6sjOqJu78h603g8iU1wTH0gK9gQGKGEVIlw==",
+  "dgSpecHash": "kDUDqcxStKugcMgc193mrFZGgrCCDYPEe3cXo7MYp+XAGDVO2HtPUnBd1mi/XEAztGZ2qYKpl7eodyBE6QzNug==",
   "success": true,
-  "projectFilePath": "E:\\Curses\\C#\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
+  "projectFilePath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\R\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",

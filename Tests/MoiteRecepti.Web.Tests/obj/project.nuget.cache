@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DNvKOtPZiNJA805Zb3hdBSDaVu5fQbaxLPEB0FPlrMTfzs4F/P5eHcjErXGd+vfTHL+c2Lmck4d7bE1TknAMYQ==",
+  "dgSpecHash": "UfcJhrOZFBLA3fZqCK1STCJos3V2dYmVWxtCOXlpFy4PmQbgyXVNf6kvUylwYuYEAHSV5JP7XG79s82kIEhyvw==",
   "success": true,
-  "projectFilePath": "E:\\Curses\\C#\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj",
+  "projectFilePath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\R\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",

@@ -7,3 +7,12 @@ E:\Curses\C#\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.
 E:\Curses\C#\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.csproj.CoreCompileInputs.cache
 E:\Curses\C#\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.dll
 E:\Curses\C#\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.pdb
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\netstandard2.1\MoiteRecepti.Services.deps.json
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\netstandard2.1\MoiteRecepti.Services.dll
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\netstandard2.1\MoiteRecepti.Services.pdb
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.csprojAssemblyReference.cache
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.AssemblyInfoInputs.cache
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.AssemblyInfo.cs
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.csproj.CoreCompileInputs.cache
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.dll
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VSQvC3eEYL1kcJCEwsAbrOeGJ1gHUqMqcZOW5G///RFs4ivM1aBkZafQDZ7tyKYxZK9rpw4/c4TMuU0qYQKoxQ==",
+  "dgSpecHash": "O0cv4GWs4BTGlcyH/VPl/twzPB9mkk8pn0uuihwREZ8TwNGIS+b3eGenRYibpyJtJNyEyaPaqVJqVdo8nSgqIg==",
   "success": true,
-  "projectFilePath": "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj",
+  "projectFilePath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\R\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",

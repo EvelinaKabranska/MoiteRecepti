@@ -998,11 +998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Curses\\C#\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj",
+      "projectUniqueName": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj",
       "projectName": "MoiteRecepti.Data.Models",
-      "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj",
+      "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj",
       "packagesPath": "C:\\Users\\R\\.nuget\\packages\\",
-      "outputPath": "E:\\Curses\\C#\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\obj\\",
+      "outputPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\R\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1019,8 +1019,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "E:\\Curses\\C#\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj": {
-              "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj"
+            "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj": {
+              "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj"
             }
           }
         }
@@ -1061,7 +1061,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

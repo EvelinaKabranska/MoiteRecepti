@@ -7,3 +7,12 @@ E:\Curses\C#\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net
 E:\Curses\C#\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.csproj.CoreCompileInputs.cache
 E:\Curses\C#\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.dll
 E:\Curses\C#\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.pdb
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\bin\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.deps.json
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\bin\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.dll
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\bin\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.pdb
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.csprojAssemblyReference.cache
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.AssemblyInfoInputs.cache
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.AssemblyInfo.cs
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.csproj.CoreCompileInputs.cache
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.dll
+E:\Curses\C#\Projects\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj": {}
+    "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj": {}
   },
   "projects": {
-    "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj": {
+    "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj",
+        "projectUniqueName": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj",
         "projectName": "MoiteRecepti.Services.Messaging",
-        "projectPath": "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj",
+        "projectPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj",
         "packagesPath": "C:\\Users\\R\\.nuget\\packages\\",
-        "outputPath": "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\obj\\",
+        "outputPath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\R\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

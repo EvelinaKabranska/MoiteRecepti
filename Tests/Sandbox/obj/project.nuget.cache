@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i/80XrLPomC3Q376gK7iwZ2mnqwgbkhjbAfcaHBHNNAqHQaeyLvZIbiaBWLCIJSgCYd6zPEAntsZwiePI6UN3Q==",
+  "dgSpecHash": "kgapcOTxdvAIogwkYXMmBaDTEiFQ8PL9bHjYPv60FUxOATSwanZS8l9ZIIdMtux6e8gHhOvQ3U9KlQwv4DZjhA==",
   "success": true,
-  "projectFilePath": "E:\\Curses\\C#\\MoiteRecepti\\Tests\\Sandbox\\Sandbox.csproj",
+  "projectFilePath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Tests\\Sandbox\\Sandbox.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\R\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",

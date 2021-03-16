@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b9SvK76iRwO3s/jXVs6TEXR5bjVvvVCpteXzTxoRIh/hQ/VxIFWUaJvacwRLecUFq1to/Oa8sOEZVkVjZwPcOg==",
+  "dgSpecHash": "JuX3HEB/a+A9W31m1gF3c9mu2L88yxtQNAzLK/r5TSAb9XNgY/woASqnPCh39kyuCHSo3XinZZpC2LCvxFoEOw==",
   "success": true,
-  "projectFilePath": "E:\\Curses\\C#\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj",
+  "projectFilePath": "E:\\Curses\\C#\\Projects\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\R\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
